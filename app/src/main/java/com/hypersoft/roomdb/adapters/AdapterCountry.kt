@@ -11,6 +11,13 @@ import com.hypersoft.roomdb.databinding.ItemCountryBinding
 import com.hypersoft.roomdb.interfaces.OnCountryItemClickListener
 import com.hypersoft.roomdb.db.tables.CountryTable
 
+/**
+ * @Author: Muhammad Yaqoob
+ * @Date: 29,March,2024.
+ * @Accounts
+ *      -> https://github.com/orbitalsonic
+ *      -> https://www.linkedin.com/in/myaqoob7
+ */
 class AdapterCountry(private val onCountryItemClickListener: OnCountryItemClickListener) : ListAdapter<CountryTable, AdapterCountry.CustomViewHolder>(diffUtilCountryTable) {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CustomViewHolder {

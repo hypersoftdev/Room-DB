@@ -27,6 +27,13 @@ import com.hypersoft.roomdb.di.DIComponent
 import com.hypersoft.roomdb.interfaces.OnCountryItemClickListener
 import kotlin.random.Random
 
+/**
+ * @Author: Muhammad Yaqoob
+ * @Date: 29,March,2024.
+ * @Accounts
+ *      -> https://github.com/orbitalsonic
+ *      -> https://www.linkedin.com/in/myaqoob7
+ */
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding

@@ -4,6 +4,13 @@ import androidx.room.TypeConverter
 import com.google.gson.Gson
 import com.hypersoft.roomdb.db.tables.City
 
+/**
+ * @Author: Muhammad Yaqoob
+ * @Date: 29,March,2024.
+ * @Accounts
+ *      -> https://github.com/orbitalsonic
+ *      -> https://www.linkedin.com/in/myaqoob7
+ */
 class Convertors {
 
     @TypeConverter
