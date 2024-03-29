@@ -13,6 +13,13 @@ import com.hypersoft.roomdb.db.tables.CountryTable
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
 
+/**
+ * @Author: Muhammad Yaqoob
+ * @Date: 29,March,2024.
+ * @Accounts
+ *      -> https://github.com/orbitalsonic
+ *      -> https://www.linkedin.com/in/myaqoob7
+ */
 @Database(
     entities = [CountryTable::class],
     version = 1,

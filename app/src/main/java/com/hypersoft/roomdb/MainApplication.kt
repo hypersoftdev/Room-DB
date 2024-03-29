@@ -5,6 +5,13 @@ import com.hypersoft.roomdb.di.modulesList
 import org.koin.android.ext.koin.androidContext
 import org.koin.core.context.startKoin
 
+/**
+ * @Author: Muhammad Yaqoob
+ * @Date: 29,March,2024.
+ * @Accounts
+ *      -> https://github.com/orbitalsonic
+ *      -> https://www.linkedin.com/in/myaqoob7
+ */
 class MainApplication : Application() {
     override fun onCreate() {
         super.onCreate()
